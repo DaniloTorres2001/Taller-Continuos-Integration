@@ -1,9 +1,6 @@
 import pytest
 from main import (
     calculate_total_cost,
-    apply_discount,
-    apply_special_offer_discount,
-    apply_special_meal_surcharge,
     validate_meal_availability,
 )
 
