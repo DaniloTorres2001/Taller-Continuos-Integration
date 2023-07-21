@@ -117,7 +117,6 @@ def dining_experience_manager(menu):
     else:
         return -1
 
-
 # Example Menu (You can customize this with different meals, prices, and topics)
 menu_items = [
     ("Fried Rice", 8.50, "Chinese Food"),
